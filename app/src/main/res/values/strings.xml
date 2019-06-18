@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyWeatherApp</string>
+    <string name="conditionText">Condition</string>
+    <string name="locationText">Location</string>
+    <string name="temperatureText">Temperature</string>
+    <string name="dark_sky_weather_logo">Dark Sky Weather Logo</string>
+    <string name="openweatherLogoText">Openweather Logo</string>
+</resources>
